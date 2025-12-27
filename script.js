@@ -9,7 +9,7 @@ function toggleMenu() {
 }
 
 function downloadCV() {
-  window.open(scr="image/alya cv.png");
+  window.open(scr="image/cv.png");
 }
 
 document.addEventListener("DOMContentLoaded", function() {
